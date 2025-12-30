@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @bahadirerim
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning C Language
-- 💞️ I’m looking to collaborate on embedded systems
-- 📫 How to reach me on www.linkedin.com/in/bahadirerim/
+
